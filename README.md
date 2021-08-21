@@ -1,7 +1,7 @@
 # class-implementation-string
 Сlass for representation a character string in C++.
 
-The functionality of the Python interpreter has also been extended with an implemented class
+The functionality of the Python interpreter has also been extended with an implemented class (***./for python***)
 
 ## Functionality
 The basic class MyString follow next requirements:
